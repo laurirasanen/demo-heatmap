@@ -1,5 +1,5 @@
 # demo-heatmap
-Export TF2 player positions from an STV demo using [https://github.com/demostf/demo.js/](demo.js).
+Export TF2 player positions from an STV demo using [demo.js](https://github.com/demostf/demo.js/).
 
 ## Write positions of players to a JSON file with progress
 ```js
