@@ -1,0 +1,22 @@
+{
+  "name": "demo-heatmap",
+  "version": "1.0.0",
+  "description": "Extract TF2 player positions from an STV demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurirasanen/demo-heatmap.git"
+  },
+  "author": "laurirasanen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laurirasanen/demo-heatmap/issues"
+  },
+  "homepage": "https://github.com/laurirasanen/demo-heatmap#readme",
+  "dependencies": {
+    "@demostf/demo.js": "^2.1.1"
+  }
+}
